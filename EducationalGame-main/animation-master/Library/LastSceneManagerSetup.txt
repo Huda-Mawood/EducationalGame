@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Alphapitic.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|d:\\material\\animation\\educationalgame\\educationalgame-main\\animation-master\\assets\\scenes\\multiplechoicequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\multiplechoicequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|d:\\material\\animation\\educationalgame\\educationalgame-main\\animation-master\\assets\\scenes\\letterchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\letterchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\assets\\scenes\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\assets\\scenes\\numberchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0344C59B-4C6F-A97B-3F10-287B19C1D7CA}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\numberchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultipleChoiceQuiz.cs",
+              "DocumentMoniker": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\MultipleChoiceQuiz.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MultipleChoiceQuiz.cs",
+              "ToolTip": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\MultipleChoiceQuiz.cs*",
+              "RelativeToolTip": "Assets\\Scenes\\MultipleChoiceQuiz.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:19:32.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LetterChanger.cs",
+              "DocumentMoniker": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\LetterChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\LetterChanger.cs",
+              "ToolTip": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\LetterChanger.cs",
+              "RelativeToolTip": "Assets\\Scenes\\LetterChanger.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:54:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberChanger.cs",
+              "DocumentMoniker": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\NumberChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\NumberChanger.cs",
+              "ToolTip": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\NumberChanger.cs",
+              "RelativeToolTip": "Assets\\Scenes\\NumberChanger.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:30:24.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SceneLoader.cs",
+              "ToolTip": "D:\\Material\\Animation\\EducationalGame\\EducationalGame-main\\animation-master\\Assets\\Scenes\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SceneLoader.cs",
+              "ViewState": "AgIAABAAAACgmZmZmZkvwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:56:16.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
